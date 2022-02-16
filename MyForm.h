@@ -87,7 +87,7 @@ namespace demo {
 			this->listView1->HideSelection = false;
 			this->listView1->Location = System::Drawing::Point(61, 108);
 			this->listView1->Name = L"listView1";
-			this->listView1->Size = System::Drawing::Size(255, 244);
+			this->listView1->Size = System::Drawing::Size(235, 244);
 			this->listView1->Sorting = System::Windows::Forms::SortOrder::Ascending;
 			this->listView1->TabIndex = 2;
 			this->listView1->UseCompatibleStateImageBehavior = false;
