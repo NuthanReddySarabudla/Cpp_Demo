@@ -61,16 +61,16 @@ namespace demo {
 			// 
 			// label1
 			// 
-			this->label1->Location = System::Drawing::Point(58, 9);
+			this->label1->Location = System::Drawing::Point(61, 9);
 			this->label1->MinimumSize = System::Drawing::Size(0, 10);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(148, 38);
+			this->label1->Size = System::Drawing::Size(204, 29);
 			this->label1->TabIndex = 0;
 			this->label1->Text = L"ADD TASK";
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(294, 41);
+			this->button1->Location = System::Drawing::Point(303, 65);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(86, 39);
 			this->button1->TabIndex = 1;
@@ -85,7 +85,7 @@ namespace demo {
 			this->listView1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 15.75F, static_cast<System::Drawing::FontStyle>((System::Drawing::FontStyle::Bold | System::Drawing::FontStyle::Italic)),
 				System::Drawing::GraphicsUnit::Point, static_cast<System::Byte>(0)));
 			this->listView1->HideSelection = false;
-			this->listView1->Location = System::Drawing::Point(61, 108);
+			this->listView1->Location = System::Drawing::Point(61, 145);
 			this->listView1->Name = L"listView1";
 			this->listView1->Size = System::Drawing::Size(235, 244);
 			this->listView1->Sorting = System::Windows::Forms::SortOrder::Ascending;
@@ -98,7 +98,7 @@ namespace demo {
 			this->textBox1->AcceptsTab = true;
 			this->textBox1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->textBox1->Location = System::Drawing::Point(61, 41);
+			this->textBox1->Location = System::Drawing::Point(61, 65);
 			this->textBox1->Multiline = true;
 			this->textBox1->Name = L"textBox1";
 			this->textBox1->Size = System::Drawing::Size(193, 39);
