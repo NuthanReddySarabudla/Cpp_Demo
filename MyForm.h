@@ -125,7 +125,7 @@ namespace demo {
 
 		String ^  s = textBox1->Text;
 
-		//if (s->Equals( "" ) ) return ;
+		if (s->Equals( "" ) ) return ;
 
 		textBox1->Text = "";
 
