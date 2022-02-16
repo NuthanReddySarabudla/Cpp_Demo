@@ -101,7 +101,7 @@ namespace demo {
 			this->textBox1->Location = System::Drawing::Point(61, 65);
 			this->textBox1->Multiline = true;
 			this->textBox1->Name = L"textBox1";
-			this->textBox1->Size = System::Drawing::Size(193, 39);
+			this->textBox1->Size = System::Drawing::Size(214, 39);
 			this->textBox1->TabIndex = 3;
 			// 
 			// MyForm
