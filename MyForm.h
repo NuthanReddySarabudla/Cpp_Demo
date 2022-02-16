@@ -70,9 +70,9 @@ namespace demo {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(294, 53);
+			this->button1->Location = System::Drawing::Point(294, 41);
 			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(75, 23);
+			this->button1->Size = System::Drawing::Size(86, 39);
 			this->button1->TabIndex = 1;
 			this->button1->Text = L"ADD";
 			this->button1->UseVisualStyleBackColor = true;
@@ -98,10 +98,10 @@ namespace demo {
 			this->textBox1->AcceptsTab = true;
 			this->textBox1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->textBox1->Location = System::Drawing::Point(61, 50);
+			this->textBox1->Location = System::Drawing::Point(61, 41);
 			this->textBox1->Multiline = true;
 			this->textBox1->Name = L"textBox1";
-			this->textBox1->Size = System::Drawing::Size(183, 30);
+			this->textBox1->Size = System::Drawing::Size(193, 39);
 			this->textBox1->TabIndex = 3;
 			// 
 			// MyForm
